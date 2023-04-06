@@ -17,4 +17,4 @@ Piplist -IP <ip Interval> -O <out file>
 ## 开源协议
 
 本项目遵循MIT协议，项目被允许修改和共享，且允许商业使用，但需要保留LICENSE和相关版权。
-如果你有更好的建议，倒不如提交一份issues。
+如果你有更好的建议，倒不如提交一份issues：https://github.com/Moxin1044/Piplist/issues
